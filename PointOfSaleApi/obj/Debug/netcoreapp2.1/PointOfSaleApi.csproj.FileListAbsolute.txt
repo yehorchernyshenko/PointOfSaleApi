@@ -1,0 +1,14 @@
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\bin\Debug\netcoreapp2.1\PointOfSaleApi.deps.json
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\bin\Debug\netcoreapp2.1\PointOfSaleApi.runtimeconfig.json
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\bin\Debug\netcoreapp2.1\PointOfSaleApi.runtimeconfig.dev.json
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\bin\Debug\netcoreapp2.1\PointOfSaleApi.dll
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.csprojAssemblyReference.cache
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.csproj.CoreCompileInputs.cache
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.RazorAssemblyInfo.cache
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.RazorAssemblyInfo.cs
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.AssemblyInfoInputs.cache
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.AssemblyInfo.cs
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.RazorTargetAssemblyInfo.cache
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\bin\Debug\netcoreapp2.1\PointOfSaleApi.pdb
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.dll
+C:\Yehor\Programming\PointOfSaleApi\PointOfSaleApi\obj\Debug\netcoreapp2.1\PointOfSaleApi.pdb
